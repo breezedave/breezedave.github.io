@@ -1,0 +1,17 @@
+canvas, video {
+  width: 640px;
+  height: 360px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.hidden, #hidden {
+  display: none;
+}
+
+#controls {
+  position: absolute;
+  top: 400px;
+  left: 50px;
+}
